@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Total_Sales,Date,Region
+C001,Arjun Sharma,Laptop,Electronics,2,50000,100000,2025-01-15,North
+C002,Neha Patel,Headphones,Electronics,3,2000,6000,2025-02-10,West
+C003,Rohan Mehta,Office Chair,Furniture,1,7000,7000,2025-03-22,South
+C004,Priya Singh,Mobile Phone,Electronics,1,25000,25000,2025-04-05,East
+C001,Arjun Sharma,Mouse,Accessories,2,800,1600,2025-05-09,North
+C005,Amit Verma,Table Lamp,Furniture,4,1200,4800,2025-06-12,North
+C002,Neha Patel,Laptop,Electronics,1,50000,50000,2025-07-18,West
+C003,Rohan Mehta,Mouse,Accessories,3,800,2400,2025-08-20,South
+C004,Priya Singh,Headphones,Electronics,2,2000,4000,2025-09-05,East
+C005,Amit Verma,Laptop,Electronics,1,50000,50000,2025-10-11,North
